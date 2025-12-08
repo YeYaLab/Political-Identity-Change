@@ -1,10 +1,4 @@
-# Neural Correlates of Political Attitudes Identity Change  
-### A Longitudinal fMRI Study (2025)
-
-
----
-
-## 📊 Neural Data Availability
+# 📊 Neural Data Availability
 
 ### 🧠 Zenodo Dataset
 
@@ -19,7 +13,7 @@ Only voxels located within **grey matter** are included.
 
 ---
 
-## 🗺️ Statistical Maps (NIfTI)
+### 🗺️ Statistical Maps (NIfTI)
 
 NIfTI maps of the results of figures 3 and 4 are hosted on Neurovault:  
 👉 **https://neurovault.org/collections/19578/**
